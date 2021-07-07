@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#通过命令 python utf8-convert.py -e utf-8-sig 或 python utf8-convert.py -e utf-8 对当前目录下文件进行转换
 import argparse
 import chardet
 import codecs
